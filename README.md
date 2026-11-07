@@ -8,7 +8,7 @@ Open data for **bulmaca**, a crossword for learning English with Turkish clues. 
 |---|---|---:|---|
 | `lexicon/en/en-lexicon-v0.2.1.json` | English word list used to tell a typo from a wrong guess (current) | 1,281,554 bytes | `f2e5bf50d346e066d6530c4039c721f95e61494aa8d192ce91d1adce3e835dba` |
 | `lexicon/en/en-lexicon-v0.2.0.json` | Previous version, kept so that existing links keep working | 1,280,943 bytes | `d825131822724307b997522d061354f2e3087279c1e280c1f635bf7f0208ca2c` |
-| `gizlilik/index.html`, `gizlilik/en/index.html` | BLOCKU privacy policy (Turkish, English), served at https://umayyentur.github.io/bulmaca-dist/gizlilik/ | — | — |
+| `gizlilik/index.html`, `gizlilik/en/index.html` | BLOCU privacy policy (Turkish, English), served at https://umayyentur.github.io/bulmaca-dist/gizlilik/ | — | — |
 | `LICENSE` | CC BY-SA 4.0 legal code | 20,138 bytes | `28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5` |
 
 The Turkish–English puzzle package will be added here when version 1.0.0 is released.
